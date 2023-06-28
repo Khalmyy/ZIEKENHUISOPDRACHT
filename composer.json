@@ -1,0 +1,15 @@
+{
+    "name": "yourb/ziekenhuis",
+    "autoload": {
+        "psr-4": {
+            "Yourb\\Ziekenhuis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jxylia",
+            "email": "9012734@student.zadkine.nl"
+        }
+    ],
+    "require": {}
+}
